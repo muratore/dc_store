@@ -8,7 +8,6 @@ const MainBotao = (props) => {
         ${props.fundo ? 'bg-digital-pink' : 'bg-inherit'}
         ${props.className ?? ''}
         py-2 px-4 rounded-md
-        
         `}
         >{props.texto}</button>
     </div>

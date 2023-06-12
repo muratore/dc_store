@@ -12,6 +12,7 @@ const Header = () => {
       <SearchInput/>
       <MainBotao texto='Cadastre' color className=' underline underline-offset-1 mx-12 text-digital-cinza'/>
       <MainBotao fundo texto='Entrar'/>
+      <MainBotao fundo texto='teste'/>
       <Carrinho/>
       </div>
       <Menu/>
